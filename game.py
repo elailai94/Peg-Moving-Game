@@ -1,3 +1,11 @@
+# ******************************************************************************
+#   Peg Moving Game
+#
+#   @author: Ah Hoe Lai
+#   @description: Program that allows a player to play the Peg Moving Game
+#   @version: 1.4 01/12/2014
+# ******************************************************************************
+
 # Constants for input and output
 cmd_prompt = 'Enter a command: '
 l_msg = 'Cannot move left'
