@@ -3,7 +3,7 @@
 #
 #   @author: Ah Hoe Lai
 #   @description: Program that allows a player to play the Peg Moving Game
-#   @version: 1.4 01/12/2014
+#   @version: 1.5 01/12/2014
 # ******************************************************************************
 
 # Constants for input and output
