@@ -1,7 +1,7 @@
 # ******************************************************************************
 #   Peg Moving Game
 #
-#   @author: Ah Hoe Lai
+#   @author: Elisha Lai
 #   @description: Program that allows a player to play the Peg Moving Game
 #   @version: 1.5 01/12/2014
 # ******************************************************************************
