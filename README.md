@@ -4,8 +4,9 @@ Peg Moving Game is a basic interactive game that moves a peg around a board. It 
 
 ### Execution
 ```Bash
-python 
+python game.py [board_height] [board_width]
 ```
+> Note: **board_height**
 
 ### Usage
 #### Game Commands
