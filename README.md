@@ -12,7 +12,7 @@ python game.py [board_height] [board_width]
 #### Game Commands
 * **up** moves the peg up by one row in the board.
 * **down** moves the peg down by one row in the board.
-* **left moves the peg left by one column in the board.
+* **left** moves the peg left by one column in the board.
 * **right** moves the peg right by one column in the board.
 * **show** prints out the board, with the position of the peg, to the screen.
 * **exit** quits the game.
