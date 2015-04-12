@@ -6,6 +6,8 @@
 #   @version: 1.5 01/12/2014
 # ******************************************************************************
 
+import sys
+
 # Constants for input and output
 cmd_prompt = 'Enter a command: '
 l_msg = 'Cannot move left'
@@ -173,3 +175,9 @@ def run_game(height,width):
             print_board(board)
         command = raw_input(cmd_prompt)
     print exit_msg
+
+if __name__ == "__main__":
+    import sys
+    height = int(sys.argv[1])
+    width = int(sys.argv[2])
+    run_game(height,width)
