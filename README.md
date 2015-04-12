@@ -1,4 +1,4 @@
-# Peg-Moving-Game
+# Peg Moving Game
 ### About
 Peg Moving Game is a basic interactive game that moves a peg around a board. It is written entirely in Python.
 
