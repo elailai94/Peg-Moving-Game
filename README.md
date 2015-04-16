@@ -22,4 +22,4 @@ python game.py [board_height] [board_width]
 * **exit** quits the game.
 
 ### License
-Peg Moving Game is licensed under the [MIT license.](https://github.com/elailai94/Peg-Moving-Game/blob/master/LICENSE)
+Peg Moving Game is licensed under the [MIT license](https://github.com/elailai94/Peg-Moving-Game/blob/master/LICENSE.md).
