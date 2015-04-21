@@ -177,7 +177,6 @@ def run_game(height,width):
     print exit_msg
 
 if __name__ == "__main__":
-    import sys
     height = int(sys.argv[1])
     width = int(sys.argv[2])
     run_game(height,width)
