@@ -11,6 +11,7 @@ Peg Moving Game is a basic interactive game that moves a peg around a board. It 
 ```Bash
 ./game.py [board_height] [board_width]
 ```
+> Note: **board_height** and **board_width** is the height and width of the board. For example, *./game.py 2 5* prints out a board with 2 rows high and 5 columns wide to the screen.
 #### Interpreter Invocation
 ```Bash
 python game.py [board_height] [board_width]
