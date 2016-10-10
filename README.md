@@ -1,7 +1,7 @@
 # Peg Moving Game
 
-[![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
-[![forthebadge](http://forthebadge.com/images/badges/made-with-swift.svg)](http://forthebadge.com)
+[![Python Badge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/made-with-ruby.svg)](http://forthebadge.com)
 
 ### About
 Peg Moving Game is a basic interactive game that moves a peg around a board. It is written entirely in Python.
